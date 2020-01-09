@@ -1,0 +1,56 @@
+h1 {
+    font-family: Georgia, serif;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    padding-top: 30px;
+  }
+
+.header {
+    height: 100px;
+    width: 1100px;
+    background-color: brown;
+}
+
+.content > div {
+    height: 100px;
+    width: 1200px;
+}
+.content > div > div {
+    height: 100px;
+    width: 998px;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    float: left;
+}
+.content .tit {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: #ccc;
+    border-bottom: 1px solid #fff;
+}
+.tit h2 {
+    margin-top: 35px; 
+}
+
+.content div h5 {
+    font-size: 16px;
+    font-weight: normal;
+    float: left;
+    margin: 0 20px 0;
+}
+
+.content .midtit {
+    font-weight: bold;
+}
+
+.content .mid {
+    height: 24px;
+    width: 1000px;
+}
+
+.content .info {
+    /* margin-top: 5px; */
+}

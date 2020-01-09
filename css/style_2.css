@@ -1,0 +1,46 @@
+.resume {
+    overflow: hidden;
+}
+
+.header {
+    float: left;
+    background-color: darksalmon;
+    margin-bottom: -3000px;
+    padding-bottom: 3000px;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 40px 40px 40px 40px;
+    color: #fff;
+  }
+
+h5 {
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.content {
+    float: left;
+    margin-left: 20px;
+}
+
+.content h5, .contact h5 {
+    display: inline;
+    margin: 10px 50px 0 0;
+}
+
+.tit {
+    margin-top: 30px;
+}
+
+.mid {
+    margin-top: 10px;
+}
+
+.content .midtit {
+    font-weight: bold;
+    margin-top: 20px;
+}
